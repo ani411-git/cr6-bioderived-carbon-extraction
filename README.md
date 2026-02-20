@@ -9,4 +9,7 @@ Research project investigating removal of hexavalent chromium using bioderived c
 Conference poster:
 
 [View Poster](ICITS24_poster.pdf)
+
+Certificate Proof: 
+
 [View Certificate](certificate.jpg)
